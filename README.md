@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi👋, i am Akib Mallik
 
 <!--
 **Akib265/Akib265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
